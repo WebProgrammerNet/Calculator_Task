@@ -1,0 +1,4 @@
+2020-06-05 23:54:18.1206||DEBUG|Task_RB.Program|Start Application |url: |action: 
+2020-06-05 23:54:41.6172||INFO|Task_RB.Controllers.CalcController|Required CalcMethodtype : Divide;  20 : 8 = 2 |url: https://localhost/api/calc/divide|action: Divide
+2020-06-05 23:54:48.5322||INFO|Task_RB.Controllers.CalcController|Required CalcMethodtype : Divide;  20 : 30 = 1 |url: https://localhost/api/calc/divide|action: Divide
+2020-06-05 23:55:16.2472||INFO|Task_RB.Controllers.CalcController|Required CalcMethodtype : Multiply;  20 * 30 = 600 |url: https://localhost/api/calc/multiply|action: Multiply
